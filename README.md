@@ -1,7 +1,6 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 
-# WCAG Audit 
+# WCAG Audit ✔️
 
 Web Content Accessibility Guidelines onderzoek. 
 
@@ -9,7 +8,7 @@ Web Content Accessibility Guidelines onderzoek.
 
 Stel je voor dat de gebruiker van jouw website niet kan zien, of kleurenblind is, of een website bedient met alleen het toetsenbord, of spastisch is, of een arm in het gips heeft. Of ..." - Bron: fdnd-taks</em>
 
-## MBO Colleges Almere
+## MBO Colleges Almere  ✍🏽
 
 ![image](https://user-images.githubusercontent.com/112861261/199424206-0f217308-cfb8-412c-9e98-bace347ff67d.png)
 
