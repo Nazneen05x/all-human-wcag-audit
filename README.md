@@ -6,7 +6,7 @@ Web Content Accessibility Guidelines onderzoek.
 
 <em>"Het is de verantwoordelijkheid van een frontender dat een website voor verschillende mensen, met verschillende apparaten, in verschillende situaties toegankelijk is. Met goede code en een goed design kun je ervoor zorgen dat mensen met een (tijdelijke) beperking een website ook op een prettige manier kunnen bedienen.
 
-Stel je voor dat de gebruiker van jouw website niet kan zien, of kleurenblind is, of een website bedient met alleen het toetsenbord, of spastisch is, of een arm in het gips heeft. Of ..." - Bron: fdnd-taks</em>
+Stel je voor dat de gebruiker van jouw website niet kan zien, of kleurenblind is, of een website bedient met alleen het toetsenbord, of spastisch is, of een arm in het gips heeft. Of ..." - <strong>Bron: fdnd-taks</strong></em>
 
 ## MBO Colleges Almere  ✍🏽
 
